@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.div1 {
+    background-color: darkolivegreen;
+
+}
+
+a {
+    color: greenyellow;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+.box {
+    background-color: darkolivegreen; 
+    display: inline-block; 
+    width: 250px; 
+    
+}
+
+
+
+
